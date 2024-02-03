@@ -1,1 +1,2 @@
 MAD test project
+Another line added
